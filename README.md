@@ -7,8 +7,8 @@ Durch ein zusätzliches Recherche-Tool konnten für jedes Adjektiv Listen mit de
 Die input-Dateien und die fertigen Frequenz-Listen (im xlsx-Format) lassen sich im Repository in entsprechenden Ordnern finden:
 
 - Daten aus den Themenkorpora (DeReKo) im Ordner *"out_files_dereko_themenkorpora"*
-- Daten aus dem Archiv W-öffentlich (DeReKo) im Ordner *"out_files_dereko_w"*
-- Daten aus dem Korpus deTenTen18 im Ordner *"out_files_sketch_engine"*
+- Daten aus dem Archiv "W-öffentlich" (DeReKo) im Ordner *"out_files_dereko_w"*
+- Daten aus dem Korpus "deTenTen18" im Ordner *"out_files_sketch_engine"*
 - Daten aus dem Korpus “Gesprochene Sprache” (DWDS) im Ordner *"out_files_dwds"* 
 
-In jeder xlsx-Datei finden sich Daten zum Gebrauch vom entsprechenden Adjektiv in attributiver Funktion auf den Seiten, die mit "end_" starten. Auf der ersten Seite sind die aus dem Korpus gewonnenen Daten und auf der zweiten die Frequenzlisten.
+In jeder xlsx-Datei finden sich Daten zum Gebrauch vom entsprechenden Adjektiv in attributiver Funktion auf den Seiten, deren Namen mit "end_" beginnen. Auf der ersten Seite sind die aus dem Korpus gewonnenen Daten und auf der zweiten die Frequenzlisten.
